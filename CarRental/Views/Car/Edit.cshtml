@@ -1,0 +1,17 @@
+﻿@model Car
+@{
+    ViewData["Title"] = "Edit Car Information";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<hr />
+<form asp-action="Edit" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="PickUpDate" class="form-label"></label>
+        <input asp-for="PickUpDate" class="form-control" />
+    </div>
+
+   <partial name="_AddEditPartialView" model="@Model"/>
+</form>

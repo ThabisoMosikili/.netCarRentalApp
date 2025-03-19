@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Car>
+@{
+    ViewBag.Title = "Car page";
+}
+<h2 class="text-center shadow-sm rounded pt-5">Rental Car </h2>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-primary alert-dismissible" role="alert">
+        <button type="button" class="btn-close"
+                data-bs-dismiss="alert" aria-label="Close">
+        </button>
+        @TempData["Message"]
+    </div>
+}
+
+<br />
+<div>
+    <div class="text-center display-6 fw-bold">
+        The following are the cars you can rent. 
+    </div>
+    <br />
+    <p>
+        <a asp-action="Add">Add Car Information</a>
+    </p>
+    <table class="table table-bordered table-hover table-striped">
+        <thead>
+            <tr>
+                
+                <th>
+                    <a asp-controller="CarController" asp-action="Cars" asp-route-sortBy = "@ViewData["NameSortParam"]">
+                        @Html.DisplayNameFor(model=>model.Name)
+                    </a>
+                   </th>
+                <th>@Html.DisplayNameFor(model=>model.PricePerKM)</th>
+                <th>@Html.DisplayNameFor(model=>model.PickUpDate)</th>
+                <th>@Html.DisplayNameFor(model=>model.ReturnDate)</th>
+                <th>
+                    <a asp-controller="CarController" asp-action="Cars" asp-route-sortBy="@ViewData["CarTypeSortParam"]">
+                        @Html.DisplayNameFor(model=>model.CarType)
+                    </a> 
+                    </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(Car c in Model)
+            {
+            <tr>
+                <td>
+                    <a asp-action="Details" asp-controller="Car" asp-route-id="@c.Id"  asp-route-slug="@c.Slug">
+                        @c.Name
+                    </a>
+                </td>
+                <td>@c.PricePerKM.ToString("C")</td>
+                <td>@c.PickUpDate.ToShortDateString()</td>
+                <td>@c.ReturnDate.ToShortDateString()</td>
+                <td>@c.CarType.CarTypeName</td>
+                <td>
+                    <a asp-action="Edit" asp-controller="Car" asp-route-id="@c.Id" asp-route-slug="@c.Slug">Edit</a> |
+                    <a asp-action="Delete" asp-controller="Car" asp-route-id="@c.Id" asp-route-slug="@c.Slug">Delete</a>
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+    <br />
+    <p class="fw-bold fst-italic text-danger">Total cars rented: @Model.Count()</p>
+</div>
