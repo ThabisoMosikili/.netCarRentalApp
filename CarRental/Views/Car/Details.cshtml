@@ -1,0 +1,20 @@
+﻿@model Car
+
+@{
+    ViewData["Title"] = "Details";
+}
+<h2 class="text-center shadow-sm rounded pt-5">Car Details</h2>
+
+
+<div class="bg-light m-3 p-4">
+    <h2>@Model.Name</h2>
+    <hr />
+    <h5 class="text-right">PricePerKM: @Model.PricePerKM.ToString("c")</h5>
+    <h5>Car ModelNo: @Model.ModelNo</h5>
+    <h5>Car Description: @Model.Description</h5>
+    <br />
+    <a asp-action="Cars" asp-controller="Car"
+            class="btn btn-link">
+        Back
+    </a>
+</div>

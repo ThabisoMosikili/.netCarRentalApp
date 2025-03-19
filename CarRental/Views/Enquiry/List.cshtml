@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Enquiry>
+@{
+    ViewBag.Title = "Enquiries page";
+}
+<h2 class="text-center shadow-sm rounded pt-5">List of Enquiries</h2>
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-primary alert-dismissible" role="alert">
+        <button type="button" class="btn-close"
+                data-bs-dismiss="alert" aria-label="Close">
+        </button>
+        @TempData["Message"]
+    </div>
+}
+<br />
+<div>
+    <br />
+    <table class="table table-bordered table-hover table-striped">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model=>model.Name)</th>
+                <th>@Html.DisplayNameFor(model=>model.EnquiryDate)</th>
+                <th>@Html.DisplayNameFor(model=>model.Email)</th>
+                <th>@Html.DisplayNameFor(model=>model.Message)</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Enquiry e in Model)
+            {
+                <tr>
+                    <td>@e.Name</td>
+                    <td>@e.EnquiryDate.ToShortDateString()</td>
+                    <td>@e.Email</td>
+                    <td>@e.Message</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

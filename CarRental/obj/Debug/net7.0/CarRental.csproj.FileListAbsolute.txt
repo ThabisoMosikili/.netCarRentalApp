@@ -1,0 +1,868 @@
+C:\Users\MaseMB\source\repos\CarRental\CarRental\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\MaseMB\source\repos\CarRental\CarRental\bin\Debug\net7.0\appsettings.json
+C:\Users\MaseMB\source\repos\CarRental\CarRental\bin\Debug\net7.0\libman.json
+C:\Users\MaseMB\source\repos\CarRental\CarRental\bin\Debug\net7.0\CarRental.staticwebassets.runtime.json
+C:\Users\MaseMB\source\repos\CarRental\CarRental\bin\Debug\net7.0\CarRental.exe
+C:\Users\MaseMB\source\repos\CarRental\CarRental\bin\Debug\net7.0\CarRental.deps.json
+C:\Users\MaseMB\source\repos\CarRental\CarRental\bin\Debug\net7.0\CarRental.runtimeconfig.json
+C:\Users\MaseMB\source\repos\CarRental\CarRental\bin\Debug\net7.0\CarRental.dll
+C:\Users\MaseMB\source\repos\CarRental\CarRental\bin\Debug\net7.0\CarRental.pdb
+C:\Users\MaseMB\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.AssemblyReference.cache
+C:\Users\MaseMB\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaseMB\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfoInputs.cache
+C:\Users\MaseMB\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfo.cs
+C:\Users\MaseMB\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.CoreCompileInputs.cache
+C:\Users\MaseMB\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MaseMB\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cache
+C:\Users\MaseMB\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cs
+C:\Users\MaseMB\source\repos\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MaseMB\source\repos\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.build.CarRental.props
+C:\Users\MaseMB\source\repos\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CarRental.props
+C:\Users\MaseMB\source\repos\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CarRental.props
+C:\Users\MaseMB\source\repos\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\MaseMB\source\repos\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\MaseMB\source\repos\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\MaseMB\source\repos\CarRental\CarRental\obj\Debug\net7.0\scopedcss\bundle\CarRental.styles.css
+C:\Users\MaseMB\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.dll
+C:\Users\MaseMB\source\repos\CarRental\CarRental\obj\Debug\net7.0\refint\CarRental.dll
+C:\Users\MaseMB\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.pdb
+C:\Users\MaseMB\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.genruntimeconfig.cache
+C:\Users\MaseMB\source\repos\CarRental\CarRental\obj\Debug\net7.0\ref\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\bin\Debug\net7.0\appsettings.Development.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\bin\Debug\net7.0\appsettings.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\bin\Debug\net7.0\libman.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.staticwebassets.runtime.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.exe
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.deps.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.runtimeconfig.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.pdb
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.AssemblyReference.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfoInputs.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfo.cs
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.CoreCompileInputs.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.MvcApplicationPartsAssemblyInfo.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cs
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssets.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.build.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.pack.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.build.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.development.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\obj\Debug\net7.0\scopedcss\bundle\CarRental.styles.css
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\obj\Debug\net7.0\refint\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.pdb
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.genruntimeconfig.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 2\Solution\CarRental\CarRental\obj\Debug\net7.0\ref\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\bin\Debug\net7.0\appsettings.Development.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\bin\Debug\net7.0\appsettings.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\bin\Debug\net7.0\libman.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\bin\Debug\net7.0\CarRental.staticwebassets.runtime.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\bin\Debug\net7.0\CarRental.exe
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\bin\Debug\net7.0\CarRental.deps.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\bin\Debug\net7.0\CarRental.runtimeconfig.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\bin\Debug\net7.0\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\bin\Debug\net7.0\CarRental.pdb
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.AssemblyReference.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\obj\Debug\net7.0\CarRental.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfoInputs.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfo.cs
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.CoreCompileInputs.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\obj\Debug\net7.0\CarRental.MvcApplicationPartsAssemblyInfo.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cs
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssets.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.build.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.pack.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.build.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.development.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\obj\Debug\net7.0\scopedcss\bundle\CarRental.styles.css
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\obj\Debug\net7.0\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\obj\Debug\net7.0\refint\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\obj\Debug\net7.0\CarRental.pdb
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\obj\Debug\net7.0\CarRental.genruntimeconfig.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\StudentFiles\CarRental\CarRental\obj\Debug\net7.0\ref\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\bin\Debug\net7.0\appsettings.Development.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\bin\Debug\net7.0\appsettings.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\bin\Debug\net7.0\libman.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.staticwebassets.runtime.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.exe
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.deps.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.runtimeconfig.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.pdb
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.AssemblyReference.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfoInputs.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfo.cs
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.CoreCompileInputs.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.MvcApplicationPartsAssemblyInfo.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cs
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssets.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.build.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.pack.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.build.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.development.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\obj\Debug\net7.0\scopedcss\bundle\CarRental.styles.css
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\obj\Debug\net7.0\refint\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.pdb
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.genruntimeconfig.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 3\Solution\CarRental\CarRental\obj\Debug\net7.0\ref\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.AssemblyReference.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfoInputs.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfo.cs
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.CoreCompileInputs.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.MvcApplicationPartsAssemblyInfo.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cs
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\refint\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.pdb
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\appsettings.Development.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\libman.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\appsettings.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.staticwebassets.runtime.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.exe
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.deps.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.runtimeconfig.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.pdb
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Azure.Core.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Azure.Identity.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Humanizer.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\System.CodeDom.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Memory.Data.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssets.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.build.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.pack.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.build.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.development.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\scopedcss\bundle\CarRental.styles.css
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.CopyComplete
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.genruntimeconfig.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 4\Solution\CarRental\CarRental\obj\Debug\net7.0\ref\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\appsettings.Development.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\appsettings.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\libman.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.staticwebassets.runtime.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.exe
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.deps.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.runtimeconfig.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.pdb
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Azure.Core.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Azure.Identity.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Humanizer.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\System.CodeDom.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Memory.Data.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.AssemblyReference.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfoInputs.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfo.cs
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.CoreCompileInputs.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.MvcApplicationPartsAssemblyInfo.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cs
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssets.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.build.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.pack.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.build.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.development.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\scopedcss\bundle\CarRental.styles.css
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.CopyComplete
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\refint\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.pdb
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.genruntimeconfig.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 5\Solution\CarRental\CarRental\obj\Debug\net7.0\ref\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\appsettings.Development.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\appsettings.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\libman.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.staticwebassets.runtime.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.exe
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.deps.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.runtimeconfig.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.pdb
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Azure.Core.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Azure.Identity.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Humanizer.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\System.CodeDom.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Memory.Data.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.AssemblyReference.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfoInputs.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfo.cs
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.CoreCompileInputs.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.MvcApplicationPartsAssemblyInfo.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cs
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssets.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.build.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.pack.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.build.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.development.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\scopedcss\bundle\CarRental.styles.css
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.CopyComplete
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\refint\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.pdb
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.genruntimeconfig.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 6\Solution\CarRental\CarRental\obj\Debug\net7.0\ref\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\appsettings.Development.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\appsettings.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\libman.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.staticwebassets.runtime.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.exe
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.deps.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.runtimeconfig.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.pdb
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Azure.Core.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Azure.Identity.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Humanizer.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\System.CodeDom.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Memory.Data.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.AssemblyReference.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfoInputs.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfo.cs
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.CoreCompileInputs.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.MvcApplicationPartsAssemblyInfo.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cs
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssets.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.build.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.pack.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.build.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.development.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\scopedcss\bundle\CarRental.styles.css
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.CopyComplete
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\refint\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.pdb
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.genruntimeconfig.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 7\Solution\CarRental\CarRental\obj\Debug\net7.0\ref\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\appsettings.Development.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\appsettings.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\libman.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.staticwebassets.runtime.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.exe
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.deps.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.runtimeconfig.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\CarRental.pdb
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Azure.Core.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Azure.Identity.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Humanizer.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\System.CodeDom.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Memory.Data.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.AssemblyReference.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfoInputs.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfo.cs
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.CoreCompileInputs.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.MvcApplicationPartsAssemblyInfo.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cs
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssets.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.build.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CarRental.props
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.pack.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.build.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.development.json
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\scopedcss\bundle\CarRental.styles.css
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.CopyComplete
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\refint\CarRental.dll
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.pdb
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\CarRental.genruntimeconfig.cache
+G:\My Drive\CSI Information\CSIQ Mudules\Undergraduate\2023\CSIQ3734\Assessments\Practical Activities\Class Activity 8\Solution\CarRental\CarRental\obj\Debug\net7.0\ref\CarRental.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\appsettings.json
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\libman.json
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\CarRental.staticwebassets.runtime.json
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\CarRental.exe
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\CarRental.deps.json
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\CarRental.runtimeconfig.json
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\CarRental.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\CarRental.pdb
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\CarRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfo.cs
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\CarRental.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cache
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cs
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.build.CarRental.props
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CarRental.props
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CarRental.props
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\scopedcss\bundle\CarRental.styles.css
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.CopyComplete
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\CarRental.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\refint\CarRental.dll
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\CarRental.pdb
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\CarRental.genruntimeconfig.cache
+C:\Users\Student\Desktop\Practice\CarRental\CarRental\obj\Debug\net7.0\ref\CarRental.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\appsettings.json
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\libman.json
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\CarRental.staticwebassets.runtime.json
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\CarRental.exe
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\CarRental.deps.json
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\CarRental.runtimeconfig.json
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\CarRental.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\CarRental.pdb
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.csproj.AssemblyReference.cache
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfoInputs.cache
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfo.cs
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.csproj.CoreCompileInputs.cache
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cache
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cs
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.build.CarRental.props
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CarRental.props
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CarRental.props
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\scopedcss\bundle\CarRental.styles.css
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.csproj.CopyComplete
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\refint\CarRental.dll
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.pdb
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.genruntimeconfig.cache
+C:\Users\Itumeleng\Documents\CSIQ3734_Internet_Programming\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\ref\CarRental.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\appsettings.json
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\libman.json
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\CarRental.staticwebassets.runtime.json
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\CarRental.exe
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\CarRental.deps.json
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\CarRental.runtimeconfig.json
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\CarRental.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\CarRental.pdb
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.csproj.AssemblyReference.cache
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfoInputs.cache
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfo.cs
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.csproj.CoreCompileInputs.cache
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cache
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cs
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.build.CarRental.props
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CarRental.props
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CarRental.props
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\scopedcss\bundle\CarRental.styles.css
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.csproj.CopyComplete
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\refint\CarRental.dll
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.pdb
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.genruntimeconfig.cache
+C:\Users\Mlets\OneDrive\Desktop\CarRental (2)\CarRental\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\ref\CarRental.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\appsettings.json
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\libman.json
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\CarRental.staticwebassets.runtime.json
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\CarRental.staticwebassets.endpoints.json
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\CarRental.exe
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\CarRental.deps.json
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\CarRental.runtimeconfig.json
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\CarRental.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\CarRental.pdb
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Humanizer.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.csproj.AssemblyReference.cache
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfoInputs.cache
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfo.cs
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.csproj.CoreCompileInputs.cache
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cache
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cs
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\scopedcss\bundle\CarRental.styles.css
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.build.CarRental.props
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CarRental.props
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CarRental.props
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.csproj.Up2Date
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\refint\CarRental.dll
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.pdb
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\CarRental.genruntimeconfig.cache
+C:\Users\31tha\Pictures\Facility Bookings\2015098458_Radebe_I_Activity9\CarRental\obj\Debug\net7.0\ref\CarRental.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\appsettings.json
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\libman.json
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\CarRental.staticwebassets.endpoints.json
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\CarRental.staticwebassets.runtime.json
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\CarRental.exe
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\CarRental.deps.json
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\CarRental.runtimeconfig.json
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\CarRental.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\CarRental.pdb
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Humanizer.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\CarRental.csproj.AssemblyReference.cache
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\CarRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfoInputs.cache
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfo.cs
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\CarRental.csproj.CoreCompileInputs.cache
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\CarRental.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cache
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cs
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\scopedcss\bundle\CarRental.styles.css
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.build.CarRental.props
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CarRental.props
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CarRental.props
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\CarRental.csproj.Up2Date
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\CarRental.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\refint\CarRental.dll
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\CarRental.pdb
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\CarRental.genruntimeconfig.cache
+C:\Users\31tha\Pictures\Facility Bookings\carRentals\CarRental\obj\Debug\net7.0\ref\CarRental.dll

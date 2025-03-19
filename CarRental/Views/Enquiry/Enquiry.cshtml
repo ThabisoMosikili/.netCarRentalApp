@@ -1,0 +1,31 @@
+﻿@model Enquiry
+
+@{
+    ViewData["Title"] = "Enquiry";
+}
+
+<h2 class="text-center shadow-sm rounded pt-5">Enquire about Cars </h2>
+<br />
+
+<form asp-action="Index" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" type="text" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label"></label>
+        <input asp-for="Email" type="text" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Message" class="form-label"></label>
+        <textarea asp-for="Message" class="form-control"></textarea>
+    </div>
+
+    <div class="mb-3">
+        <input type="submit" class="btn btn-primary" value="Submit" />
+    </div>
+
+</form>
